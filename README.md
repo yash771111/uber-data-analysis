@@ -27,17 +27,17 @@ This project analyzes Uber ride booking data to uncover insights related to reve
 ### 🔹 Overall Dashboard
 
 Shows key KPIs like total bookings, revenue, and ride trends.
-![Overall](images/overall.png)
+![Overall](images/Overall.png)
 
 ### 🔹 Vehicle Type Analysis
 
 Displays performance metrics across different vehicle types.
-![Vehicle](images/vehicle.png)
+![Vehicle](images/Vehicle.png)
 
 ### 🔹 Revenue Analysis
 
 Highlights revenue contribution by vehicle type and trends over time.
-![Revenue](images/revenue.png)
+![Revenue](images/Revenue.png)
 
 ### 🔹 Cancellation Insights
 
@@ -47,7 +47,7 @@ Shows cancellation rate and reasons for ride cancellations.
 ### 🔹 Ratings Analysis
 
 Displays driver and customer ratings across vehicle types.
-![Ratings](images/ratings.png)
+![Ratings](images/Rating.png)
 
 ---
 
